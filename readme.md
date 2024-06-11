@@ -44,13 +44,19 @@ Make sure to create a `.env` file in the root directory of your server with the 
 DB_URL = [Your MongoDB connection string]
 
 CLOUDINARY_NAME = [Your Cloudinary account name]
+
 CLOUDINARY_API_KEY = [Your Cloudinary API key]
+
 CLOUDINARY_API_SECRET = [Your Cloudinary API secret]
 
 PORT = 4000
+
 JWT_SECRET = [Your JWT secret key]
+
 JWT_EXPIRE = [JWT expiration time]
+
 COOKIE_TIME = [Cookie expiration time]
 
 GOOGLE_CLIENT_ID = [Your Google OAuth2 client ID]
+
 GOOGLE_CLIENT_SECRET = [Your Google OAuth2 client secret]
