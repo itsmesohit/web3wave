@@ -2,9 +2,9 @@
 A Product of Todayq
 
 # Check live 
-   - http://13.233.229.172:4000/
+   - [http://3.88.108.208:4000/](http://3.88.108.208:4000/)
    - or
-   - [click here](https://shorturl.at/1omEg)
+   - [click here](https://shorturl.at/TP9Fi)
      (For optimal viewing experience, please open on a laptop or desktop)
 
 ## Description
@@ -33,8 +33,8 @@ TodayQ NFT Platform is a comprehensive web application built on the MERN (MongoD
    - Run `npm install` to install dependencies
    - Run `npm start` to start the server
 3. **Access the hosted link**
-   - http://13.233.229.172:4000/
-   - [click here](https://shorturl.at/1omEg)
+   - [http://3.88.108.208:4000/](http://3.88.108.208:4000/)
+   - [click here](https://shorturl.at/TP9Fi)
 Once you register with your email ID refresh the page and log in again to see the detail
 
 
