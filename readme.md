@@ -6,6 +6,9 @@ A Product of Todayq
    - or
    - [click here](https://shorturl.at/TP9Fi)
      (For optimal viewing experience, please open on a laptop or desktop)
+# Demo Video
+  - [Click here to see the demo video](https://drive.google.com/file/d/1BfLRN9hu9soI3eSatIN1Nm1HMdTogTw8/view?usp=sharing)
+  - 
 
 ## Description
 TodayQ NFT Platform is a comprehensive web application built on the MERN (MongoDB, Express.js, React.js, Node.js) stack, aimed at providing a platform for publishers to publish their NFTs, coins, and packages. Users can browse and purchase these items, as well as subscribe to various services offered on the platform. The platform is designed to cater to the needs of the web3 community, gaming enthusiasts, and more.
