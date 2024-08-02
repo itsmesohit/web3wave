@@ -1,5 +1,5 @@
-# Koinpr 
-A Product of Todayq
+# Web3 wave 
+Publish your web3 products to millions of users worldwide
 
 # Check live 
    - [http://3.88.108.208:4000/](http://3.88.108.208:4000/)
@@ -11,7 +11,7 @@ A Product of Todayq
     
 
 ## Description
-TodayQ NFT Platform is a comprehensive web application built on the MERN (MongoDB, Express.js, React.js, Node.js) stack, aimed at providing a platform for publishers to publish their NFTs, coins, and packages. Users can browse and purchase these items, as well as subscribe to various services offered on the platform. The platform is designed to cater to the needs of the web3 community, gaming enthusiasts, and more.
+Web3 Wave is a comprehensive web application built on the MERN (MongoDB, Express.js, React.js, Node.js) stack, aimed at providing a platform for publishers to publish their NFTs, coins, and packages. Users can browse and purchase these items, as well as subscribe to various services offered on the platform. The platform is designed to cater to the needs of the web3 community, gaming enthusiasts, and more.
 
 
 
